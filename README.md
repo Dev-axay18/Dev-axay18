@@ -1,94 +1,156 @@
+<img align="left" src="https://img1.picmix.com/output/stamp/normal/9/2/7/0/1810729_12681.gif" width="21%" style="display:inline;"><img align="right" src="https://img1.picmix.com/output/stamp/normal/9/2/7/0/1810729_12681.gif" width="21%" style="display:inline;">
+
+<h1 align="center">Me? I Am Akshay..!</h1>
+
+
+<p align="center"> 
+ <!-- <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="Kshitij Gehlot's languages" /> -->
+ <!-- <img alt="Profile followers" src="https://img.shields.io/github/followers/KDGehlot2003"> -->
+</p>
+
 <div align="center">
-  <img height="600" src="https://private-user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg1MDEwMTksIm5iZiI6MTcyODUwMDcxOSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MjUzNzEtNDAzYWY2Y2MtMzJmZC00MDI2LThmYjUtYWU1MjNiZjg5OWMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDA5VDE5MDUxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc2ZWYyOTMwYjQ5NGNhYTAyZWJiOGQwODFkMWVhMTBmZjQyYjI2ZWNiNTFlMGJlNzU5MjZhN2NmOGM1M2U4MjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.uzukpwQJcY1jd4qilWZW7vM8rwCXd_FVkgCWY7J1riE"  />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JuNDI0NWp3cWFsMjc2b2ZtOTc2OWQxc3A5aXBkZnp4ejJ5dGxhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" alt="icon" width="50" height="50" />
+  <img src="https://camo.githubusercontent.com/e1784ce9f67450bbb344206d1e05579cf4c835b6e84add8e63d1c19b072e7aab/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313236302f312a2d744f6c644562666a696a786e3956715a65554c71672e676966" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL9wZIn_v0Dj2AU9B0jXrKQq_CssHAVJ3ftg&s" alt="icon" width="50" height="50" />
+   <img src="https://gdsc-university-of-seoul.github.io/assets/images/post-Tailwind-CSS/Tailwind-icon.png" alt="icon" width=50" height="30" />
+ 
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-###
-
-<br clear="both">
-
-<h1 align="center">👋 Hello, I'm Akshay</h1>
-
-###
-
-<h4 align="left">Welcome to my GitHub profile! I am a B.Tech student in my 2nd year, specializing in Web Development. With a strong foundation in coding and design, I am passionate about creating dynamic and user-centric applications that solve real-world problems.</h4>
-
-###
-
-<h3 align="left">🌟 About Me</h3>
-
-###
-
-<h4 align="left">I am driven by the challenge of learning new technologies and applying them to create impactful solutions. I thrive in collaborative environments and enjoy working on projects that enhance user experiences. My goal is to continuously grow as a developer and contribute to meaningful projects in the tech community.</h4>
-
-###
-
-<h3 align="left">🚀 Skills</h3>
-
-###
-
-<p align="left">Frontend Development<br><br>•   HTML : Building structured and semantic web content.<br><br>•  CSS : Crafting responsive and visually appealing designs with modern frameworks (e.g., Bootstrap, Tailwind).<br><br>•  JavaScript : Enhancing interactivity and functionality of web applications.<br><br>•  React : Developing dynamic user interfaces with reusable components.</p>
-
-###
-
-<h3 align="left">API Integration</h3>
-
-###
-
-<p align="left">• Proficient in integrating third-party APIs (e.g., Remove.bg) to extend application functionalities and improve user experience.</p>
-
-###
-
-<h3 align="left">Version Control</h3>
-
-###
-
-<p align="left">•  Git & GitHub : Managing projects, collaborating with others, and tracking changes in code repositories.</p>
-
-###
-
-<h3 align="left">Design Tools</h3>
-
-###
-
-<p align="left">• Figma : Creating wireframes and UI designs for web applications.</p>
-
-###
-
-<h2 align="left">🌟 Projects</h2>
-
-###
-
-<h5 align="left">1)    [Background Remover Web Application] ( https://dev-axay18.github.io/remove.it/ )<br>A user-friendly web application that enables users to effortlessly remove backgrounds from images using the Remove.bg API. Features include:<br><br>- Image Upload : Supports multiple formats.<br><br>- Real-time Preview : View original and processed images side by side.<br><br>- Download Functionality : Simple download option for background-free images.</h5>
-
-###
+<br>
 
 <div align="center">
-  <a href="www.linkedin.com/in/akshay-kale-88792932a" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFyOHN5eTNydGlwcHlpY3ppMWNrdGJ5MmR0YzNzem5xYjAzbW84NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif" alt="icon" width="50" height="50" />
+<!--   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" /> -->
+<!--   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" /> -->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWt1MGdtYjZiNGljN2U0ZWJjOTNybzJlYzV3azF2OGNrbnVyNzJibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif" alt="icon" width="110" height="50" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3F0Zmx6MHB2NDF3anM2czQ0bXJwNGQyZ2YzMjM2b3JudzN3OThnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<img align="right" alt="Coding" width="300" src="https://www.animatedimages.org/data/media/1026/animated-bugs-bunny-image-0031.gif">
+<br><br>
+
+## 🛠️ About Me
+
+ 
+| 👨‍💻 MERN Stack Developer | Cyber Security Enthusiast  |
+|-----------|-----------|
+| Passionate about penetration testing |Linux Geek |
+| Ethical Hacker |building secure and scalable web applications |
+|🔒 Love **penetration testing** & bug hunting |🐧 Hardcore **Linux user & automation enthusiast**|
+|⚛ React Specialist|📡 Exploring **cloud security and DevSecOps** |
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h1 align="center">⚡ Tech Stack </h1> 
+### 🚀 **Web Development**
+- MERN Stack (MongoDB, Express, React, Node.js)  
+- TypeScript, TailwindCSS, Next.js  
+- REST & GraphQL APIs  
+
+### 🔒 **Cyber Security & Ethical Hacking**
+- Penetration Testing (Kali Linux, Metasploit, Burp Suite)  
+- Web Security (OWASP Top 10, XSS, SQL Injection)  
+- Cryptography & Network Security  
+
+### 🐧 **Linux & DevOps**
+- Linux System Administration (Arch, Ubuntu, Kali)  
+- Docker, Kubernetes, Nginx  
+- Bash Scripting & Automation  
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
+</p>
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+<h3 align="left">Social:</h3>
+<p align="left">
+<a href="linkedin.com/in/akshay-kale-88792932a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitijgehlot" height="30" width="40" /></a>
+<a href="https://www.instagram.com//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kshitijgehlot" height="30" width="40" /></a>
+
+
+</p>
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Languages and Tools:</h3>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,md" />
   </a>
-  <a href="https://www.instagram.com/w3b.axay_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</p>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+<!--   <img src="https://skillicons.dev/icons?i=py,nodejs,express,flask,fastapi,bash" /> -->
+  <img src="https://skillicons.dev/icons?i=py,nodejs,express,php" />
   </a>
-  <a href="akshaykale8856@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</p>
+
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
-</div>
+</p>
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,linux" />
+  </a>
+</p>
+- System Skills
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,cpp,c," />
+  </a>
+</p>
 
-###
+<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-axay18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-axay18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-###
+## 📊 GitHub Stats  
 
-<img src="https://raw.githubusercontent.com/Dev-axay18/Dev-axay18/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=Dev-axay18&show_icons=true&theme=radical" />
+</p>
 
-###
 
-<div align="center">
-  <img height="500" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg1MDEwMTksIm5iZiI6MTcyODUwMDcxOSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDA5VDE5MDUxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg1NjcyNjQwMmViM2M4MzM4NTIyM2VmYzY3NjEwMGUxMzllOTlhYWQ3NjdjNTViOWI0OTJkYjVjMDQ4MTk4N2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pQXQDOR5FfXvohTPpwgYzMfcV0z4CvrhrbxSbuRkeyI"  />
-</div>
+## 🌐 Connect With Me  
 
-###
+<p align="center">
+  <a href="linkedin.com/in/akshay-kale-88792932a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Instagram-blakc?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://akshaykale.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-My_Site-orange?style=for-the-badge" /></a>
+</p>
+
+<br>
+
+---
+
+<p align="center">
+  🚀 Made with ❤️ by <b>Akshay Kale</b> | © 2024 All Rights Reserved  
+</p>
+
+<p align="center">
+  <a href="https://github.com/your-github-username">
+    <img src="https://img.shields.io/github/followers/your-github-username?label=Followe
+ 
+
+
