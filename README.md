@@ -45,6 +45,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h1 align="center">⚡ Tech Stack </h1> 
+
 ### 🚀 **Web Development**
 - MERN Stack (MongoDB, Express, React, Node.js)  
 - TypeScript, TailwindCSS, Next.js  
