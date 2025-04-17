@@ -145,8 +145,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-github-username">
-    <img src="https://img.shields.io/github/followers/your-github-username?label=Followe
+  <a href="[https://github.com/your-github-username](https://github.com/Dev-axay18/Dev-axay18)">
+    <img src="https://img.shields.io/github/followers/Dev-axay18?label=Followe
  
 
 
