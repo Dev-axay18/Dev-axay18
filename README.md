@@ -7,6 +7,11 @@
  <!-- <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="Kshitij Gehlot's languages" /> -->
  <!-- <img alt="Profile followers" src="https://img.shields.io/github/followers/KDGehlot2003"> -->
 </p>
+## 🏆 Issues You've Resolved
+
+![Responsive Fixed](https://img.shields.io/badge/Issue-Fixed:%20Responsive%20Layout-success?style=for-the-badge&logo=github)
+
+> ✅ Closed [Issue #1](https://github.com/your-username/your-repo-name/issues/1) — Improved mobile responsiveness.
 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JuNDI0NWp3cWFsMjc2b2ZtOTc2OWQxc3A5aXBkZnp4ejJ5dGxhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" alt="icon" width="50" height="50" />
