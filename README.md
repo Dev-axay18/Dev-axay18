@@ -33,12 +33,6 @@
 <img align="right" alt="Coding" width="300" src="https://www.animatedimages.org/data/media/1026/animated-bugs-bunny-image-0031.gif">
 <br><br>
 
-<br><br>
-### 🏆 Issues You've Resolved
-
-![Responsive Fixed](https://img.shields.io/badge/Issue-Fixed:%20Responsive%20Layout-success?style=for-the-badge&logo=github)
-
-> ✅ Closed [Issue #1](https://github.com/your-username/your-repo-name/issues/1) — Improved mobile responsiveness.
 ## 🛠️ About Me
 
  
