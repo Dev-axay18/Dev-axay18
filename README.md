@@ -1,6 +1,6 @@
 <!-- Cover Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Hey%2C+I'm+Akshay+Kale!; Security+%F0%9F%9A%A1+%7C+Networking+%F0%9F%8C%90+%7C+Full-Stack+%F0%9F%92%BB;Let's+build+something+secure+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=960&size=37&lines=Hey%2C+I'm+Akshay+Kale!;Security+%F0%9F%9A%A1+%7C+Networking+%F0%9F%8C%90+%7C+Full-Stack+%F0%9F%92%BB;Let's+build+something+secure+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <!-- Hero Emojis -->
