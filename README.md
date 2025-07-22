@@ -114,7 +114,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/akshay-kale-88792932a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://www.instagram.com/md5.axay/"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" /></a>
-  <a href="https://akshaykale.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-My_Site-orange?style=for-the-badge" /></a>
+  <a href="https://ak22dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-My_Site-orange?style=for-the-badge" /></a>
 </p>
 
 <!-- Footer -->
