@@ -107,6 +107,12 @@
 <p align="center">
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=Dev-axay18&show_icons=true&theme=radical" />
 </p>
+<p align="center">
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-axay18&theme=github_dark" />
+</p>
+<p align="center">
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dev-axay18&theme=github_dark&utmOffset=8" />
+</p>
 
 <!-- Socials -->
 ## 🌐 Connect With Me
