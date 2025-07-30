@@ -220,9 +220,7 @@
 
 ## 📈 GitHub Analytics
 
-<!-- <p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=Dev-axay18&show_icons=true&theme=radical" />
-</p> -->
+![Tech Radar](https://raw.githubusercontent.com/Dev-axay18/Dev-axay18/main/dev-axay18-tech-radar-dark.svg)
 
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
