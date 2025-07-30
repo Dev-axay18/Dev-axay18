@@ -220,13 +220,18 @@
 
 ## 📈 GitHub Analytics
 
-![Tech Radar](https://raw.githubusercontent.com/Dev-axay18/Dev-axay18/main/dev-axay18-tech-radar-dark.svg)
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/Dev-axay18/Dev-axay18/main/dev-axay18-tech-radar-dark-final.svg" alt="Dev-axay18 Tech Radar" width="500" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-axay18&theme=github_dark" width="480" /><br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dev-axay18&theme=github_dark&utmOffset=8" width="480" />
+    </td>
+  </tr>
+</table>
 
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-axay18&theme=github_dark" width="48%" style="min-height: 20px;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dev-axay18&theme=github_dark&utmOffset=8" width="48%" style="min-height: 200px;" />
-</div>
 
 
 
