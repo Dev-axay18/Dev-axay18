@@ -19,6 +19,7 @@
 <p align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="400" />
 </p>
+<br>
 
 <h1 align="center">Me? I Am Akshay..!</h1>
 
@@ -35,31 +36,37 @@
   </em>
 </p>
 
-<div align="center" class="pulse-shadow" style="
-  margin-top: 25px; background: linear-gradient(145deg, rgba(23,23,23,0.9), rgba(42,0,84,0.9)); padding: 30px; border-radius: 24px; box-shadow: 0 0 60px rgba(138,43,226,0.2); display: inline-block;
-">
+<div align="center">
 
   <!-- Tech Stack Icons -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JuNDI0NWp3cWFsMjc2b2ZtOTc2OWQxc3A5aXBkZnp4ejJ5dGxhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" alt="VS Code" width="60" style="margin: 15px;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JuNDI0NWp3cWFsMjc2b2ZtOTc2OWQxc3A5aXBkZnp4ejJ5dGxhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" alt="VS Code" width="60" style="margin: 27px;" />
   
-  <img src="https://camo.githubusercontent.com/e1784ce9f67450bbb344206d1e05579cf4c835b6e84add8e63d1c19b072e7aab/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313236302f312a2d744f6c644562666a696a786e3956715a65554c71672e676966" alt="Git" width="60" style="margin: 15px;" />
+  <img src="https://camo.githubusercontent.com/e1784ce9f67450bbb344206d1e05579cf4c835b6e84add8e63d1c19b072e7aab/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313236302f312a2d744f6c644562666a696a786e3956715a65554c71672e676966" alt="Git" width="60" style="margin: 27px;" />
 
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" style="margin: 15px;" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" style="margin: 27px;" />
 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL9wZIn_v0Dj2AU9B0jXrKQq_CssHAVJ3ftg&s" alt="JavaScript" width="60" style="margin: 15px;" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL9wZIn_v0Dj2AU9B0jXrKQq_CssHAVJ3ftg&s" alt="JavaScript" width="60" style="margin: 27px;" />
 
-  <img src="https://gdsc-university-of-seoul.github.io/assets/images/post-Tailwind-CSS/Tailwind-icon.png" alt="TailwindCSS" width="60" style="margin: 15px;" />
+  <img src="https://gdsc-university-of-seoul.github.io/assets/images/post-Tailwind-CSS/Tailwind-icon.png" alt="TailwindCSS" width="60" style="margin: 27px;" />
 
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" style="margin: 15px;" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" style="margin: 27px;" />
 
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="GitHub" width="60" style="margin: 15px;" />
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="GitHub" width="60" style="margin: 27px;" />
 
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="NodeJS" width="60" style="margin: 15px;" />
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFyOHN5eTNydGlwcHlpY3ppMWNrdGJ5MmR0YzNzem5xYjAzbW84NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif" alt="icon" width="60" height="50" />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWt1MGdtYjZiNGljN2U0ZWJjOTNybzJlYzV3azF2OGNrbnVyNzJibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif" alt="icon" width="110" height="50" />
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3F0Zmx6MHB2NDF3anM2czQ0bXJwNGQyZ2YzMjM2b3JudzN3OThnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="NodeJS" width="60" style="margin: 27px;" />
+  
+  <br>
+
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFyOHN5eTNydGlwcHlpY3ppMWNrdGJ5MmR0YzNzem5xYjAzbW84NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif" alt="icon" width="60" height="50" style="margin: 27px;" />
+
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWt1MGdtYjZiNGljN2U0ZWJjOTNybzJlYzV3azF2OGNrbnVyNzJibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif" alt="icon" width="110" height="50" style="margin: 27px;" />
+
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3F0Zmx6MHB2NDF3anM2czQ0bXJwNGQyZ2YzMjM2b3JudzN3OThnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" alt="icon" width="50" height="50" style="margin: 27px;" />
+
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" style="margin: 27px;" />
+
 </div>
+
 
 
 <br/>
@@ -71,71 +78,32 @@
 <!-- <img align="right" alt="Coding" width="300" src="https://www.animatedimages.org/data/media/1026/animated-bugs-bunny-image-0031.gif"> -->
 <br><br>
 
-## 🛠️ Who Am I?
-<div align="center" 
-">
+<h2 align="center">🛠️ Who Am I?</h2>
 
-  <style>
-   
-    table {
-      width: 100%;
-      font-size: 18px;
-      border-collapse: separate;
-      border-spacing: 0;
-      box-shadow: 0 0 60px rgba(138,43,226,0.2);
-      margin-top: 20px;
-      background: rgba(255, 255, 255, 0.05);
-      border-radius: 9px;
-      overflow: hidden;
-      /* box-shadow: 0 0 15px rgba(255, 255, 255, 0.05); */
-      backdrop-filter: blur(8px);
-    }
+<div align="center">
 
-    th, td {
-      padding: 16px;
-      text-align: center;
-      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-      color: black;
-    }
-
-    th {
-      background: linear-gradient(to right, #6a00ff, #9f00ff);
-      color: white;
-      font-size: 20px;
-    }
-
-    tr:hover td {
-      background: rgba(255, 255, 255, 0.08);
-      transition: 0.3s;
-    }
-  </style>
-
-  <h2 style="font-size: 26px; margin-bottom: 20px;"></h2>
-  <table>
-    <thead>
-      <tr>
-        <th>👨‍💻 Full Stack Creator</th>
-        <th>🛡️ Cybersecurity Explorer</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>🔎 <b>Penetration Tester in Action</b></td>
-        <td>🐧 <b>Linux Savant</b></td>
-      </tr>
-      <tr>
-        <td>🛡 Ethical Hacker with Curiosity</td>
-        <td>⚙️ Developer with a Security-First Mindset</td>
-      </tr>
-      <tr>
-        <td>🚀 DevSecOps Driven</td>
-        <td>🧠 Logic-Powered Tech Tinkerer</td>
-      </tr>
-    </tbody>
-  </table>
-
-  <br/><br/>
-
+<table style="width:90%; font-size:18px; border-spacing: 0; background: linear-gradient(145deg, #1a1a1a, #2e005a); border-radius: 12px; box-shadow: 0 0 20px rgba(138,43,226,0.4); overflow: hidden;">
+  <thead>
+    <tr>
+      <th style="padding: 16px; background: linear-gradient(to right, #6a00ff, #9f00ff); color: white; font-size: 20px;">👨‍💻 Full Stack Creator</th>
+      <th style="padding: 16px; background: linear-gradient(to right, #6a00ff, #9f00ff); color: white; font-size: 20px;">🛡️ Cybersecurity Explorer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 14px; text-align: center; color: white; border-bottom: 1px solid #3a3a3a;">🔎 Penetration Tester in Action</td>
+      <td style="padding: 14px; text-align: center; color: white; border-bottom: 1px solid #3a3a3a;">🐧 Linux Savant</td>
+    </tr>
+    <tr>
+      <td style="padding: 14px; text-align: center; color: white; border-bottom: 1px solid #3a3a3a;">Ethical Hacker with Curiosity</td>
+      <td style="padding: 14px; text-align: center; color: white; border-bottom: 1px solid #3a3a3a;">Developer with a Security First Mindset</td>
+    </tr>
+    <tr>
+      <td style="padding: 14px; text-align: center; color: white;">DevSecOps Driven</td>
+      <td style="padding: 14px; text-align: center; color: white;">🧠 Logic-Powered Tech Tinkerer</td>
+    </tr>
+  </tbody>
+</table>
   <img src="https://skillicons.dev/icons?i=vscode" height="40px" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git" height="40px" />
