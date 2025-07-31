@@ -223,7 +223,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/Dev-axay18/Dev-axay18/main/dev-axay18-tech-radar-dark-final.svg" alt="Dev-axay18 Tech Radar" width="500" />
+      <img src="https://github.com/Dev-axay18/Dev-axay18/blob/main/radar.jpeg?raw=true" alt="Dev-axay18 Tech Radar" width="500" />
     </td>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-axay18&theme=github_dark" width="480" /><br>
