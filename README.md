@@ -231,8 +231,9 @@
     </td>
   </tr>
 </table>
-
-
+<p align="center">
+  <img src="https://ghchart.rshah.org/green/Dev-axay18" alt="Dev-axay18's GitHub chart" style="width: 100%; max-width: 1000px;" />
+</p>
 
 
 ---
